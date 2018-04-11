@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/HomeCollection/v15
+/HomeCollection/bin/Debug
+/HomeCollection/obj/Debug
